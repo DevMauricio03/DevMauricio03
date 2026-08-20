@@ -20,6 +20,8 @@
 - 👨‍💻 As a Software Engineer & Frontend Developer (Angular), I'm constantly learning and exploring new technologies to expand my skills.
 - 💬 Ask me about Web Development, Angular, TypeScript, Linux, Docker, Redis & Cloud / VPS.
 - 🌱 I enjoy mastering operating systems like Ubuntu, macOS & Windows, and taking on fresh technical challenges.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

@@ -45,38 +45,26 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)&nbsp;
 ![n8n](https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n&logoColor=FF6D5A)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)
-## 📊 Profile Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMauricio03&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" alt="Profile Statistics" />
-</p>
-💳 Github Profile Summary Card
+
+ ## 📊 Profile Statistics
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevMauricio03&theme=github_dark" alt="Github Profile Summary Card" />
 </p>
-⏱ Streak Stats
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DevMauricio03&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevMauricio03&theme=github_dark" alt="Stats" />
 </p>
-📈 Activity Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevMauricio03&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevMauricio03&theme=github_dark" alt="Most Commit Language" />
+</p>
+### 📈 Activity Graph
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMauricio03&theme=react-dark" alt="Activity Graph" />
   </a>
 </p>
-📊 Most Used Language
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMauricio03&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-🏆 Profile Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DevMauricio03&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4" alt="Profile Trophies" />
-  </a>
-</p>
 ---
-🔗 &nbsp;Contact Me
+### 🔗 &nbsp;Contact Me
 <div align="center">
   <a href="mailto:mauricio32daniel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/mauml02"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
